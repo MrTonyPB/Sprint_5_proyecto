@@ -7,3 +7,6 @@ Su utilidad será mostrar visualmente la información de la venta de vehículos,
 tendencias en el conjunto de datos.
 Su funcionalidad se dirige a permitir al usuario de la aplicación web seleccionar una categoría del conjunto de datos
 para que se construya un gráfico de dispersión o histograma, según sea el caso.
+
+URL a la aplicación en Render
+https://sprint-5-proyecto-aplicacion-web.onrender.com
